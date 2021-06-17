@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxence !</h1>
 <h3 align="center">A multi-tool developer from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxence-machu" alt="maxence-machu" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/maxence_mch" target="blank"><img src="https://img.shields.io/twitter/follow/maxence_mch?logo=twitter&style=for-the-badge" alt="maxence_mch" /></a> </p>
 
 - 🔭 I’m co-founder of [Akarah](https://github.com/Akarah)
