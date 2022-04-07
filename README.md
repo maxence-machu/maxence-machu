@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/maxence_mch" target="blank"><img src="https://img.shields.io/twitter/follow/maxence_mch?logo=twitter&style=for-the-badge" alt="maxence_mch" /></a> </p>
 
-- 🔭 I’m co-founder of [Akarah](https://github.com/Akarah)
+- 🔭 I’m freelance fullstack javascript developer & shared CTO
 
 - 💬 Ask me about **React / Laravel / DevOps**
 
