@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React / Laravel / DevOps**
 
-- 📫 How to reach me **hey@maxence.space**
+- 📫 How to reach me **maxence@overpass.fr**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/maxence-machu/](https://www.linkedin.com/in/maxence-machu/)
 
