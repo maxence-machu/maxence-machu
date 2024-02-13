@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋, I'm Maxence !</h1>
-<h3 align="center">A multi-tool developer from France</h3>
+<h1 align="center">Hi 👋 </h1>
+<h3 align="center">CTO @EvasionsUSA 🇺🇸</h3>
 
 - Student ? Check out > <a href="https://github.com/edu-maxence-machu/Summary">🧾📚 Edu - Ressources </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxence-machu&label=Profile%20views&color=0e75b6&style=flat-square" alt="maxence-machu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/maxence_mch" target="blank"><img src="https://img.shields.io/twitter/follow/maxence_mch?logo=twitter&style=for-the-badge" alt="maxence_mch" /></a> </p>
-
-- 🔭 I’m freelance fullstack javascript developer & shared CTO
-
-- 💬 Ask me about **React / Laravel / DevOps**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/maxence-machu/](https://www.linkedin.com/in/maxence-machu/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
